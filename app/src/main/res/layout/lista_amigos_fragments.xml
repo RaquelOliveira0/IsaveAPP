@@ -60,5 +60,12 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="77dp" />
 
+    <ListView
+        android:id="@+id/listviewamigos"
+        android:layout_width="381dp"
+        android:layout_height="547dp"
+        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteY="179dp" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

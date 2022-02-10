@@ -48,8 +48,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.552" />
 
-    <TextView
-        android:id="@+id/textView4"
+    <EditText
+        android:id="@+id/edit_Email"
         style="@style/Edit_Text"
         android:layout_width="255dp"
         android:layout_height="wrap_content"
@@ -63,8 +63,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.429" />
 
-    <TextView
-        android:id="@+id/textView5"
+    <EditText
+        android:id="@+id/edit_Senha"
         style="@style/Edit_Text"
         android:layout_width="255dp"
         android:layout_height="wrap_content"

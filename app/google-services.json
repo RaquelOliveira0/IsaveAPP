@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057395459839",
+    "project_id": "isavaapp",
+    "storage_bucket": "isavaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057395459839:android:f25aeb8abff1af06792eca",
+        "android_client_info": {
+          "package_name": "com.br.ce.isaveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057395459839-9b00bkai94v2o54d02hnlkj4il5iidjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYv4bZqN1infb6-fL7EgzAZv1gipjlh8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057395459839-9b00bkai94v2o54d02hnlkj4il5iidjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

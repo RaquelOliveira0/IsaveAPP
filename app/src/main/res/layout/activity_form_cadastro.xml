@@ -36,8 +36,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.445" />
 
-    <TextView
-        android:id="@+id/textView2"
+    <EditText
+        android:id="@+id/edit_Email"
         style="@style/Edit_Text"
         android:layout_width="255dp"
         android:layout_height="wrap_content"
@@ -51,8 +51,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.384" />
 
-    <TextView
-        android:id="@+id/textView4"
+    <EditText
+        android:id="@+id/edit_Nome"
         style="@style/Edit_Text"
         android:layout_width="255dp"
         android:layout_height="wrap_content"
@@ -64,8 +64,8 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.274" />
 
-    <TextView
-        android:id="@+id/textView5"
+    <EditText
+        android:id="@+id/edit_Senha"
         style="@style/Edit_Text"
         android:layout_width="255dp"
         android:layout_height="wrap_content"
@@ -82,7 +82,7 @@
         app:layout_constraintVertical_bias="0.499" />
 
     <Button
-        android:id="@+id/btn_entrar"
+        android:id="@+id/btn_cadastrar"
         style="@style/Button"
         android:layout_width="256dp"
         android:layout_height="48dp"

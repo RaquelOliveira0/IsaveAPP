@@ -6,7 +6,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string-array name="titles_tab">
         <item>Home</item>
-        <item>Cadastro</item>
+        <item>Ruas</item>
         <item>Contatos</item>
     </string-array>
     <string name="title_activity_home_page">HomePageActivity</string>
